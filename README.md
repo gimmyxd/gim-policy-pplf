@@ -1,4 +1,4 @@
-# policy-peoplefinder
+# policy-peoplefinder-edit
 
 This repository houses the Aserto policy for the PeopleFinder sample.
 
